@@ -3,3 +3,5 @@ module github.com/mitchellh/copystructure
 go 1.15
 
 require github.com/mitchellh/reflectwalk v1.0.2
+
+replace github.com/mitchellh/reflectwalk => github.com/marco-m/reflectwalk v1.0.2
